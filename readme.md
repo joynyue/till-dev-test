@@ -10,6 +10,7 @@ http://localhost:3000/
 
 customers:
 http://localhost:5000/customers/
+
 merchants:
 http://localhost:5000/merchants/
 
